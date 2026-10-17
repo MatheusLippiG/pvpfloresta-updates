@@ -1,0 +1,980 @@
+{
+    "version":  "1.0.11",
+    "exe":  "My project (1).exe",
+    "notes":  "Versão atualizada 1.0.9.4\n\nCorrigido bug que congelava a tela ao dar alt+tab ou sair da tela do jogo.\n\nNovas habilidades!",
+    "date":  "16/10/2026 22:04",
+    "launcherSha256":  "5B313A01E4A9ACEBBFDDD3ECFA53A47179584E743BBDB27A43FBCCD542C8164C",
+    "launcherUrl":  "launcher/PvPLauncher.exe",
+    "files":  [
+                  {
+                      "path":  "My project (1).exe",
+                      "size":  667648,
+                      "sha256":  "CB930635222844E6696BB48D589CC3B4A3121C9CDDA59FFC4507DD6CA7C31365"
+                  },
+                  {
+                      "path":  "UnityCrashHandler64.exe",
+                      "size":  1606064,
+                      "sha256":  "30FC2D08169CF22957C29784D6450F294133DBDB4290A41166750C7B26C8CCAC"
+                  },
+                  {
+                      "path":  "UnityPlayer.dll",
+                      "size":  34055600,
+                      "sha256":  "8F66352D326B9251186C67FB171F0075D08E3523543B5E27579E4AD395C8E478"
+                  },
+                  {
+                      "path":  "D3D12/D3D12Core.dll",
+                      "size":  5908408,
+                      "sha256":  "31F364F2B3AA1753E7BA9FF912D0721C8F424BE5FA14503EFDDAFBB30C635D3B"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+                      "size":  7831472,
+                      "sha256":  "09EC3C1A2C4DD3C6AAF224CA714BE2C712510F20DBB1D5C00A7CAC76BD085971"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+                      "size":  611248,
+                      "sha256":  "545842F15A043764EF07C721E467813C769351C9BBA107EFB24D9D67BFC21C1F"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/browscap.ini",
+                      "size":  311984,
+                      "sha256":  "4DDD50F31FB968F30BEDEFC253A46DC3F2890192D05CDAA9E0A64A056EEE807E"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/config",
+                      "size":  3815,
+                      "sha256":  "5776169973A26A387B8B3E5C0F2301A7AB9A6DD7C7D3EFA22A96ABC47FBF8662"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+                      "size":  60575,
+                      "sha256":  "751861040B69EA63A3827507B7C8DA9C7F549DC181C1C8AF4B7CA78CC97D710A"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/2.0/machine.config",
+                      "size":  29066,
+                      "sha256":  "E91782A27FA39FC6C1D6EE8B08529F5D35052310D0006034B878EB04B8F2AF30"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/2.0/settings.map",
+                      "size":  2622,
+                      "sha256":  "49C6160F9D54AF4270A3B4E997FC4A8301F79B9E2070118FA46DDBCBBC44F9A2"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/2.0/web.config",
+                      "size":  11635,
+                      "sha256":  "CF2B54339E069B9E42F7D6795EECBF562C50C1011F4CA8F65F578FE52D97FF92"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+                      "size":  1605,
+                      "sha256":  "8A1082057AC5681DCD4E9C227ED7FB8EB42AC1618963B5DE3B65739DD77E2741"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+                      "size":  60575,
+                      "sha256":  "751861040B69EA63A3827507B7C8DA9C7F549DC181C1C8AF4B7CA78CC97D710A"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.0/machine.config",
+                      "size":  33598,
+                      "sha256":  "E60AEC2C5115D65B3ACB3C55EA21576DBD770F579166C017125571E46AE560ED"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.0/settings.map",
+                      "size":  2622,
+                      "sha256":  "CE1DB1AD8A9512073164E3ECCDC193F7EDA036E1A9733CAEC4635DE21B2865C8"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.0/web.config",
+                      "size":  18802,
+                      "sha256":  "E38BB8CC68FE5B4EDECDFD288D094B9E8CED7629039B2A347682ABA0D8BD7492"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+                      "size":  1605,
+                      "sha256":  "8A1082057AC5681DCD4E9C227ED7FB8EB42AC1618963B5DE3B65739DD77E2741"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+                      "size":  60575,
+                      "sha256":  "751861040B69EA63A3827507B7C8DA9C7F549DC181C1C8AF4B7CA78CC97D710A"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.5/machine.config",
+                      "size":  34056,
+                      "sha256":  "EE950004B576FB28DC85F4B0435ED04BF96612DE2E8B53BE84D07AFE85A0DE6C"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.5/settings.map",
+                      "size":  2622,
+                      "sha256":  "CE1DB1AD8A9512073164E3ECCDC193F7EDA036E1A9733CAEC4635DE21B2865C8"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.5/web.config",
+                      "size":  18811,
+                      "sha256":  "C4CBDDD4FD9347B58CC5A72B36DC4BA1AD2BB699E65869D05CD3FB9865F0D824"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+                      "size":  1605,
+                      "sha256":  "8A1082057AC5681DCD4E9C227ED7FB8EB42AC1618963B5DE3B65739DD77E2741"
+                  },
+                  {
+                      "path":  "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+                      "size":  25817,
+                      "sha256":  "0C56E34C69124510FA8C19E7B4C2CA6C1C4FF460AE19F798DD0CA035809E396D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/app.info",
+                      "size":  29,
+                      "sha256":  "0933675057674C39C9DF0D35F7B5FC344BCE0D7BD58BD436D34BC54021882F85"
+                  },
+                  {
+                      "path":  "My project (1)_Data/boot.config",
+                      "size":  156,
+                      "sha256":  "33E38FB121D84D39965D2DC357192D92B0F27DDDD20A253119A25ECF5B94AD1A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/globalgamemanagers",
+                      "size":  262020,
+                      "sha256":  "AAB06BBD01E3090F99F2B0E86EE8C5F432E0DC31366DC830913C767E3DC74DBD"
+                  },
+                  {
+                      "path":  "My project (1)_Data/globalgamemanagers.assets",
+                      "size":  1144392,
+                      "sha256":  "441D64CA217DE29B6F12378713A09072C1075FA6A066133721A3D287605E9EFF"
+                  },
+                  {
+                      "path":  "My project (1)_Data/globalgamemanagers.assets.resS",
+                      "size":  6174944,
+                      "sha256":  "26B24BBD0BDB7017ECBAC3B829C0ED7C4848BC343AF5702E96EBDB75A7258B04"
+                  },
+                  {
+                      "path":  "My project (1)_Data/level0",
+                      "size":  3516,
+                      "sha256":  "CAACC27436047253FBC2E5FB5A12AC6AAE3EEE505A5F232BA5B402D831BD680E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/level1",
+                      "size":  2652,
+                      "sha256":  "224E1F35669C55C6C9444D18864B7ED105F3EE289FED88C2CAA4B39F6D635637"
+                  },
+                  {
+                      "path":  "My project (1)_Data/resources.assets",
+                      "size":  368600,
+                      "sha256":  "520E329D1A93C6D2725E70E83A6A30A26579A8822196E2C93F2A6E6B18B07392"
+                  },
+                  {
+                      "path":  "My project (1)_Data/resources.assets.resS",
+                      "size":  3502576,
+                      "sha256":  "976E551F56F5F1968460D3D3C18E642EE32DA3EE9BFEDA715EE216BCB86B7DBE"
+                  },
+                  {
+                      "path":  "My project (1)_Data/RuntimeInitializeOnLoads.json",
+                      "size":  10773,
+                      "sha256":  "4500E405160BAE58ABB2AB6D5B9294358C2F9227621DBF461D4C8F889C0E0BA6"
+                  },
+                  {
+                      "path":  "My project (1)_Data/ScriptingAssemblies.json",
+                      "size":  4941,
+                      "sha256":  "597B96D00E6A86648861DEDF325562DDF4E048A7C835FB9FDF831F1852AD802E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/sharedassets0.assets",
+                      "size":  3350392,
+                      "sha256":  "2A49864F83CA26E9AD52C280CA733D8A519059A6B956253565C5D6A616F4D313"
+                  },
+                  {
+                      "path":  "My project (1)_Data/sharedassets0.assets.resS",
+                      "size":  4791616,
+                      "sha256":  "F6C2AF6BFCDEFDE7245AE406176AEC83A3EE737A13FB879F8236DCCD214C169B"
+                  },
+                  {
+                      "path":  "My project (1)_Data/sharedassets1.assets",
+                      "size":  505,
+                      "sha256":  "6C9F4E66C66EC2A212458BAC87A9E563446C7D55B1B83AF1E031007B4984405C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Assembly-CSharp.dll",
+                      "size":  166912,
+                      "sha256":  "E10AB5E062E94232A0E658402F6DF00A14CF4A02B6E41FB743E4D0174FB08E7F"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Mono.Security.dll",
+                      "size":  241152,
+                      "sha256":  "8A613947E8CDC1050B1C6AF230D63F5835500BD4C6265FDD93CABEB8D428216A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/mscorlib.dll",
+                      "size":  4632064,
+                      "sha256":  "44C8BA3B568C49A6A635680E72770CD9E3230369B60A357A37799D7921AC1539"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/netstandard.dll",
+                      "size":  90112,
+                      "sha256":  "6AE62E082DC494A2433984177F60CA4DB5FAE69B1F360A8B33754172B310B8C5"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Newtonsoft.Json.dll",
+                      "size":  691712,
+                      "sha256":  "A56146202232958F46BD6A28B5A7DA166AEA123EE0D646735A46E5C341DFBF1F"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.ComponentModel.Composition.dll",
+                      "size":  257024,
+                      "sha256":  "6281BAD85A0D948F6CDDAB1A51A330548608EC011FEFF509B9916F5C1983FE1A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Configuration.dll",
+                      "size":  124928,
+                      "sha256":  "73FC0471322F18613263AA9C4AF95FA2858B02DAB6A476D417216B6801F5A1E6"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Core.dll",
+                      "size":  1113088,
+                      "sha256":  "718CF4DA7301DFE2997AE245A2D6EA2278AF13109785DC5697473790CE5D1726"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Data.DataSetExtensions.dll",
+                      "size":  29696,
+                      "sha256":  "6A29155C3FD5F6B7E446FE7195CCB496A7C2B1268A893BA91EF9AE81A5FE062D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Data.dll",
+                      "size":  2125312,
+                      "sha256":  "080E5E7ADA60D84095D06F99086A3BE04BB95F5E52DEF38943247C5181A15FD3"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.dll",
+                      "size":  2641920,
+                      "sha256":  "B7A3726624BD596D8B6CD34E399B0322B2178D8E561BADD521D0F4D9AED31EA4"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Drawing.dll",
+                      "size":  489984,
+                      "sha256":  "595E2A5131F624C20CBF0809FF3F2D12FE52C634B13EF2429567157A8CF34D2D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.EnterpriseServices.dll",
+                      "size":  44544,
+                      "sha256":  "4D6BA012F436D81F30FEC83E0E9846658A741F65ED297AF8B2495D1A40CE6E83"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.IO.Compression.dll",
+                      "size":  114688,
+                      "sha256":  "2837B509ABE2FD0E927142C373FA1D2C6CECD523D9D991F9E178F696946F6755"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.IO.Compression.FileSystem.dll",
+                      "size":  18432,
+                      "sha256":  "23F7B5AFF05EDEB239B4A4C952F10FE88CD2DDB8D43FB122EE0D48EFEFC4DB98"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Net.Http.dll",
+                      "size":  122880,
+                      "sha256":  "73B1329E3D9EBEA4CDFCFE2B4B468218E84C9EFABC5A2F2518617BD7630B09DE"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Numerics.dll",
+                      "size":  119296,
+                      "sha256":  "29E26F391281BD705386BEF30F47C9501A424FE6C27A1605788E3AAD4DB01B93"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Runtime.dll",
+                      "size":  12288,
+                      "sha256":  "E0A7334B7BA419AAAB6BD3BB6992D693E689341A9178172C9BF99C2AA6A085BD"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Runtime.Serialization.dll",
+                      "size":  934400,
+                      "sha256":  "36C077F45BB11527C9F571FD10521C0ECAC3D8D9E81E0606CEF34292CD29FA25"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Security.dll",
+                      "size":  320000,
+                      "sha256":  "3DB9A1500F44991BFBC2771D16412BBEE65FC5812AEC5E637D79FC2781DD69F0"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.ServiceModel.Internals.dll",
+                      "size":  215040,
+                      "sha256":  "FDAA0905804CD9EF05BD75DA30B32B86981E4AE8A20A75A7F47F392B91DB3588"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Transactions.dll",
+                      "size":  35328,
+                      "sha256":  "6F84C134411AE7F3977B93185968AB0B51E2C9730878FFCBE890FE6CE27BEC65"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Xml.dll",
+                      "size":  3160064,
+                      "sha256":  "0F40CC28E9593BAFE254E02AC2BAA090E2D13B1005BF580D9A1B82C11F0FC7AC"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/System.Xml.Linq.dll",
+                      "size":  136704,
+                      "sha256":  "D0FAC514AE3B38D155FB7B9A08068C3C460617C671B8E2807F8C59420ADC2DD5"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/unity-websocket-sharp.dll",
+                      "size":  224768,
+                      "sha256":  "AC2D703F7239B84F54BA1941ED1646215C44D237BF8C9CF52FCBDDE5A0E666A7"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.AI.Navigation.dll",
+                      "size":  24576,
+                      "sha256":  "B6BDAC192E57AD2A848255D0886EB94F709B8F91A392574B0B5C269F6E7E9E13"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Burst.dll",
+                      "size":  304640,
+                      "sha256":  "48ECADB96FD5D0CDAC66A46825C21BD9C3ADD637451B05366AAD0B4E3BC76C7D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Burst.Unsafe.dll",
+                      "size":  5632,
+                      "sha256":  "9D9C1FF52411DECBEE5D9F0D1CD61EBEAA222077AA77A52101EA3DEBAFAE98E2"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Collections.dll",
+                      "size":  453632,
+                      "sha256":  "741C8C4BB7A47079B550ED12352E4F56E9E803062C4246A7844F38B2F38EF7EA"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+                      "size":  5120,
+                      "sha256":  "FF50383F807F9692E4913B97E47D86FEFCB8FAA33D6D48CD3E3FD6FC7FFB448D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.InputSystem.dll",
+                      "size":  1133568,
+                      "sha256":  "BDF6A105D036ADC49804EEABC85896EB68AB6031E8B9F8F4EDA1814E46987AA7"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.InputSystem.ForUI.dll",
+                      "size":  16896,
+                      "sha256":  "35FFD242C61284AA7578C2B81A8F2D1F34B393FBA8F908EF70683D2802B1DEBE"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Mathematics.dll",
+                      "size":  752640,
+                      "sha256":  "290292F8340A265DE8514977ED378D4D66F08E4843DBE7672A11CA437014C9BD"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Multiplayer.Center.Common.dll",
+                      "size":  10752,
+                      "sha256":  "00E1DA4923D6B79F4653DD701E70ECA1F1811A56BA07A9FA04882FF56D03B30E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Netcode.Runtime.dll",
+                      "size":  640000,
+                      "sha256":  "DA6BAA64905CBF19A58ECA5B1414E95A250CEE8DF8712A273CF6D3B72EEF049C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Networking.Transport.dll",
+                      "size":  242688,
+                      "sha256":  "F548D74FB67EDC7498EBAC104921B4295015A6CE6E777063020AA366B0064D60"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll",
+                      "size":  305664,
+                      "sha256":  "10C4FE0566B724A776303B7414CA010814525A4A1C9DC6ED6847552AC6233C16"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+                      "size":  9216,
+                      "sha256":  "FA7FA449F7B3E60A5CE38F145A4B5FF33C72EF47172A3D1DE927C224D0C18DB2"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+                      "size":  932352,
+                      "sha256":  "186851C65CA94D9F4A687C6E2034E202C1A33BCEE3B9A4530E1849BF1B705983"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+                      "size":  5632,
+                      "sha256":  "8FC7F11EC4ADB0F4243EE217C77A98AEDA6165F931DBF1EAA98CC2C136E3BEB4"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+                      "size":  4608,
+                      "sha256":  "09B1696397CE34F6C938B82D74C21813A837D6A727084BC6A2059FD0ED238A34"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+                      "size":  233984,
+                      "sha256":  "D22743F331351C1B954B193A6E0573B6E66817134F55AFC7BF510AC21268734B"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+                      "size":  4608,
+                      "sha256":  "62901E57C3A4611B28E9F8AB91A17D08D258F12B7A4C87FB7FDE62E258FCE924"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+                      "size":  250368,
+                      "sha256":  "E5FC49206ECE48DCD72FDB9723873D90C3ACBA8E22976C6591878BAD4B1AA32D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+                      "size":  5632,
+                      "sha256":  "B3EAF3A8B707D3994837708F5B7314675B7A7CC7A4730CC7E024579C25614A8C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+                      "size":  811008,
+                      "sha256":  "5BEA3D6C9A5CD4042F8CE9631B83689421343F8814257813AFDD9E511A423F00"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+                      "size":  4608,
+                      "sha256":  "DB07464649E893EE5BD9F3C6FE3E10D0A9575DB1A7BC2779C88159E60503234E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Authentication.dll",
+                      "size":  162816,
+                      "sha256":  "B8FC4F3938068EF9F0A9B6D6DE457984621FA4D4D883314E7E8030F0A78D7BC8"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Authentication.PlayerAccounts.dll",
+                      "size":  44032,
+                      "sha256":  "EDE4D501F83FF3C22DCC3868ADB00C84479B3DFF4C731E977A31AF22B9AECE67"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Analytics.dll",
+                      "size":  5632,
+                      "sha256":  "0E5319E6A4D3DC1AE2018019FE35F4FA271DC399ABEFD306CE14B5A0D3EAD458"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Components.dll",
+                      "size":  10752,
+                      "sha256":  "9D0C81365E556C42580D38BC2C64AF16D613A3E493F43D24D24240D294347C6B"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Configuration.dll",
+                      "size":  14848,
+                      "sha256":  "49068E9187A0A9663FA63EF7C3C45CA711A4136D56DD20B32D55DCA020913265"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Device.dll",
+                      "size":  8192,
+                      "sha256":  "A51A2B97D489C95D7A5679A4185DCC97BF6E983B032620D4D720086A000DCB79"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.dll",
+                      "size":  18944,
+                      "sha256":  "AB03AABD0EA607F3C38E3C4726E73A1AC51978BF727BCF034EF5FF61EA4DAD32"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Environments.dll",
+                      "size":  5632,
+                      "sha256":  "00C62304F8F4DA2328AAADB2DBCC4FFF35BEF37124D3B4C855B462707490017B"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Environments.Internal.dll",
+                      "size":  5120,
+                      "sha256":  "C9C564C3C5A4929F9CFB406B160426915264B7E693FF11FB39B4B694A3982B23"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Internal.dll",
+                      "size":  76288,
+                      "sha256":  "3CEA294F4749ED672F3310B559A08205BD9519E758A788997295FFD46DB62C76"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Networking.dll",
+                      "size":  8192,
+                      "sha256":  "D6B727DF40DA43C769816CECAE1E6D1BFE9A283AC71E2778151D8DD12B0DB160"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Registration.dll",
+                      "size":  18944,
+                      "sha256":  "06564D7F469839390D6ADF136073DA2918B39234921642FB7B93BEC294114969"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Scheduler.dll",
+                      "size":  12800,
+                      "sha256":  "0FE9C1C5434DEE2DD7B9A9C30375FAADDFB18DADC7AF130F7602310D6763DA3F"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Telemetry.dll",
+                      "size":  8704,
+                      "sha256":  "20C2ED970C0263CA1819DE7442E9C0CE1F7A4149AB1423F2130A4C84773F4154"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Core.Threading.dll",
+                      "size":  7168,
+                      "sha256":  "571B6C8AF8F878D8E70F5F26318C68F6B6C23CFCF017FE9D0184BBDC3F2C8467"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Multiplayer.dll",
+                      "size":  746496,
+                      "sha256":  "5CF2C3C92C0CE42AC252F4BE0CAFCEF11F1E8B1278A1C42369AD9973492309D5"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.QoS.dll",
+                      "size":  145408,
+                      "sha256":  "2D2EAE71F7BD2597A7BF5FEFB4F045CCF1896CDA49F78E4993320F21115D8979"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Services.Wire.Internal.dll",
+                      "size":  63488,
+                      "sha256":  "666F192227491CB32EC6ECB07BD6CDE1779065CDE825CB38BC0E08062F7221FC"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.TextMeshPro.dll",
+                      "size":  445952,
+                      "sha256":  "8924670A0AF0E77A70D4AF16B94C3AD0B4A280AFA635CF6860552E68A713B398"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.Timeline.dll",
+                      "size":  133120,
+                      "sha256":  "008D68527CCA5DCED9F4795A9EF549CC5CB36775EE2244E25D2370536EA398D7"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+                      "size":  86016,
+                      "sha256":  "ED7CE205F66EAFE39BBB5D084D42E7FE11CB4B386FF208E5D5110891BE0B7B37"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.VisualScripting.Core.dll",
+                      "size":  629760,
+                      "sha256":  "195365B7C9C65BD0789A42A86725FACEC6014BC9197CC5BCD92F67865386F56B"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
+                      "size":  7168,
+                      "sha256":  "5DB7C4B6DBCED364D4D7F1434097FCE7883F5CA6D93A3AD4957F807F7CC28500"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.VisualScripting.Flow.dll",
+                      "size":  407552,
+                      "sha256":  "93D24F9D71170DFAAE38F74BEBD9E0AB85A76D820CB77D7E776CC28725D34085"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/Unity.VisualScripting.State.dll",
+                      "size":  32256,
+                      "sha256":  "01948EA5A57FD0BB475EF346D5C8C00AE88CD61DEA79529F3E580E2EC8E2A26B"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AccessibilityModule.dll",
+                      "size":  53168,
+                      "sha256":  "F2D1FADB5EE5E759EB1A649C6ADE0EA9811620577656ED659527FEA394D1079D"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AIModule.dll",
+                      "size":  75184,
+                      "sha256":  "7C8B3EA2CF37DDC7E5010CF377C60D581885C7E8EC26D5DA570D699B0CAF8205"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AMDModule.dll",
+                      "size":  21928,
+                      "sha256":  "2E5D400C24FB00C2AA82BCAB0728720BEC4B0D1974B76753672C6CFE726020E7"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+                      "size":  119728,
+                      "sha256":  "1F70505A610D338B15794A7BEF00B7A8C99E06E84185B59886E00D464CC6197E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AnimationModule.dll",
+                      "size":  220584,
+                      "sha256":  "23C552F693397670E3C3EF346F911CBB857A7B2028235DABDF66D4A1D0121A68"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ARModule.dll",
+                      "size":  23464,
+                      "sha256":  "78F1213A26085CE4DB43A838D560E0169F7E1EE28CC910554C50698BDB754759"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AssetBundleModule.dll",
+                      "size":  40368,
+                      "sha256":  "CC8FABEC944ED4C66975BD37C25CAFFA3D0F7CDD2FBA84BBD7BC7D9559D5C308"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.AudioModule.dll",
+                      "size":  104880,
+                      "sha256":  "8D765B57203EAF92CFBE070838A87EF3C6557824151B97533AD21FC2C3949428"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ClothModule.dll",
+                      "size":  34736,
+                      "sha256":  "2852B0B316E0F2DA00CFB2943B9AC7FA1DDC476A87C7219C5C85D43F4F2D1105"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ClusterInputModule.dll",
+                      "size":  26032,
+                      "sha256":  "D7B357684820F0CAB904D71331B2192C5BD7A8458D791BFEAE24FF72DEC7E650"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+                      "size":  25000,
+                      "sha256":  "59A7502816135AF3884907E855C037B8D4049B1BD51EB9C5DFBAE02C387C2387"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ContentLoadModule.dll",
+                      "size":  30640,
+                      "sha256":  "AE5DE8960CBF0495F9B32AA3CE8BA5D73766DEE65770F4278DAB46F075ABF59A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.CoreModule.dll",
+                      "size":  1875888,
+                      "sha256":  "66BD87C903A028610D28FD2B394C3730DABDDCFD09D5D8E865E27FB63A8B2C46"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.CrashReportingModule.dll",
+                      "size":  24488,
+                      "sha256":  "E306D1FEF622EC46A49835947FD77A166D5DF163D502AA03D23C1A955AB1C8C6"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.DirectorModule.dll",
+                      "size":  39848,
+                      "sha256":  "12C3480203C6689CF25A69F00F9E749845780E73DE8E3FD6887481E8FEE447A3"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.dll",
+                      "size":  175016,
+                      "sha256":  "8D05AD62E9E578A11D3F985F6AF26117DAB5C0D71190C81186820DB9F901D375"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.DSPGraphModule.dll",
+                      "size":  31664,
+                      "sha256":  "957ED1F6C876A46D4A04F5E5C3BFF66697341492DF7BF3E28473D0BFFBBA9E00"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.GameCenterModule.dll",
+                      "size":  43944,
+                      "sha256":  "530000DC3DD51C019E888A487884ABE63CA048C08DC569B0C0D49FCDA9D651A2"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.GIModule.dll",
+                      "size":  22448,
+                      "sha256":  "2B6DB97E3068A2C25E46DEE73C97F4BD79E2494F1DF55A28DBDA1F94217ADC99"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+                      "size":  14248,
+                      "sha256":  "EA6C444DAA607FCB7F3BA369BBF05FC51A544823F6DB56AE597C4F90ABD32BE7"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.GridModule.dll",
+                      "size":  28592,
+                      "sha256":  "5C7A2D7690F79D53DB8062A31871AE0FC4BE5C1A14A483C7998CE79790B5BFEB"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+                      "size":  91560,
+                      "sha256":  "C9DDBEFC2B4D2663A0E0A37657A9943BBA026111D4D76A2320B0438F12A4C2CB"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.HotReloadModule.dll",
+                      "size":  22448,
+                      "sha256":  "F1FDF9C3BE294C6CBA9A8AC2B00892ED6EF652BF07674A13AF53E8D52E6B546C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.IdentifiersModule.dll",
+                      "size":  14760,
+                      "sha256":  "B65B07B6E51214102589D6ED957EAE4DF274CFA90228862147C4BF8641A93439"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ImageConversionModule.dll",
+                      "size":  29608,
+                      "sha256":  "1C377BF5F2BE29B4ADD1D926F6900FB1A3E672632C37F916913127BF429CA55C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.IMGUIModule.dll",
+                      "size":  208808,
+                      "sha256":  "0703E8A6FEF3EC5A32E7C2F953B93A26530FCA33E9A92567132A8E47FEDA4CDB"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.InputForUIModule.dll",
+                      "size":  57768,
+                      "sha256":  "1ECF4388824E9240BE36DAC4898FB76B3FB11504739258FDB0E2479BF0692118"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.InputLegacyModule.dll",
+                      "size":  43944,
+                      "sha256":  "9E0AB455AA15B624917E738D56F131C37F3609154067866DAE6C38F2FEF65834"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.InputModule.dll",
+                      "size":  26536,
+                      "sha256":  "39CBB733776E935E26987F6A6DCF22587DF861A449083AFD5157E25C340E5983"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.InsightsModule.dll",
+                      "size":  14248,
+                      "sha256":  "A36F1E5D3CC63B10B637E8BCF63087361C5E866E1D4965B682B6AD85BD5A9E3A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+                      "size":  25008,
+                      "sha256":  "39D6EA8324A74CD3485518565A0BE5C375661F5E617727E590EC4A4DCC434936"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.LocalizationModule.dll",
+                      "size":  25000,
+                      "sha256":  "B2F63C83D76903B509031D1744843F6317FF9C8ACB727689F794F84B79CB6E59"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.MarshallingModule.dll",
+                      "size":  65960,
+                      "sha256":  "1659E813178142D83BD76D0B0B6C4E377B626B868F755C6081B17F80B228FBF6"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.MultiplayerModule.dll",
+                      "size":  15792,
+                      "sha256":  "A393473CA9CD517900B31332C06BDA6081AC797EC3E0BC0B4FE55B15F09140FB"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.NVIDIAModule.dll",
+                      "size":  36776,
+                      "sha256":  "341F2CC083BAE62598F3B0FF5DF9D788EAD0F4118106A88E295ED5521ECAF51C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+                      "size":  169896,
+                      "sha256":  "81B7B3709AC90A2385B2AD025ED49FA4DC184983CD77543DA4851F1FD3C03499"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+                      "size":  22952,
+                      "sha256":  "7EC38C3A4B9EC2D463265B40D0250EEBA01102624B0A6582C2B99187732AA5EF"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.Physics2DModule.dll",
+                      "size":  203184,
+                      "sha256":  "CA763CC4B3F1697961CF049F36D68597C9B890C94EBDED97179C6FB18EC8CCD1"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.PhysicsModule.dll",
+                      "size":  177584,
+                      "sha256":  "801C107FE2F6BC1B98B3C63716D8C446ADC1E5ECE5B704FD5C184FF2E166F523"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.PropertiesModule.dll",
+                      "size":  149416,
+                      "sha256":  "0517D5E36667009045CAC81221D6AEDCE880C58297E065B81EB0A67B7075AB2F"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+                      "size":  22440,
+                      "sha256":  "6CBE92D8E123E17446A4BE1001A760EF9BBD4B8E8AFD438B3AE2A2AAF57B7877"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+                      "size":  24488,
+                      "sha256":  "0AD88AA87FA21635B67EC1531FD506F41B64A92B42C7A5FB5DC4B27563EC1423"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+                      "size":  22448,
+                      "sha256":  "7DD41BE839BE965C300E04F3CA568FBE0570E6FDF0A740C7BA3F462719DB36E4"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+                      "size":  34224,
+                      "sha256":  "31ADA83B5EC136A12FF1F2E149355A396FD6FC117811139E07746D33B75E5D31"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+                      "size":  26536,
+                      "sha256":  "C9DBD5A729762733064F0D4836B1AAA4330FA64E605D4795BD82A2B8B24A9530"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+                      "size":  30120,
+                      "sha256":  "6C394C1C9FB0FB2CA5A1343FD7D111EF6AB04B32B66802FCFDC0E88815A8B104"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.StreamingModule.dll",
+                      "size":  23976,
+                      "sha256":  "80DB5BC6B52F86E9A75A30C44C7675E5E3123B1DCC19565E01F1E3FECC514413"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.SubstanceModule.dll",
+                      "size":  27568,
+                      "sha256":  "50615FDB17C83BB032934B2DD025742191852E4E930478EDD468E7D42A8081D5"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.SubsystemsModule.dll",
+                      "size":  39856,
+                      "sha256":  "01690A1D73CA439159637B3BAA6AE7B19613FE60C851C3475DC3C547470B2DF5"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TerrainModule.dll",
+                      "size":  130992,
+                      "sha256":  "89A9B49BBD88560AE4F00B0BB0C4622FB01E86002D3E31463470812FE604B420"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+                      "size":  23976,
+                      "sha256":  "90AEC23E81056039586C45F66CD58DCF803EF851F00F546778CB6C33CB080EA6"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+                      "size":  86440,
+                      "sha256":  "8096166D5D21A5EB37B291BCCBD1A6A7520CBB18B682C5CA0E62DA01A5C02B5A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+                      "size":  311208,
+                      "sha256":  "10ADADF18795ECF6E8B3D3D3CB228683FB2190929DF8CD984E3B783B613258B1"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TextRenderingModule.dll",
+                      "size":  47536,
+                      "sha256":  "B262EDD5129CE853B1AA366546958174F77E7310D24A7849E616D38878AFFB1F"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TilemapModule.dll",
+                      "size":  56240,
+                      "sha256":  "06696FE0A0861039460AFD03BC635279E3A9F566AF2E8FFB21CFFE578D38E02E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.TLSModule.dll",
+                      "size":  29608,
+                      "sha256":  "4CC001C07DEF3C19334C3012DDCE17F0252279A1516D41EF20F0A61946AD4AAD"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UI.dll",
+                      "size":  275968,
+                      "sha256":  "FFC7CD3E4B0E615FCDA92A928D0F3013F4F167F41C965C97A7F46DFA6A3C2773"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UIElementsModule.dll",
+                      "size":  2219440,
+                      "sha256":  "A6B5D495D411565DD24967CB29D10DD546FD8B24033FC54E65B90028ECE1509C"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UIModule.dll",
+                      "size":  48040,
+                      "sha256":  "6E39AD8A37DF3C181CBEF5E7473C6C2F84AA74BD10F0BD5BA27BBF4E6AD15BF3"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UmbraModule.dll",
+                      "size":  22448,
+                      "sha256":  "EF274728A2DA6C47F9D69768346359B219EF964AD64AD69646EFD54CB64C16CE"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+                      "size":  33704,
+                      "sha256":  "8490345F1A3037F8648F5F246268FF6DE7F382A8D848432ACE9EA20D29CF3EDB"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+                      "size":  58800,
+                      "sha256":  "01BB7F85D9E910834D14421CA4A5F0CB7E92EE9A32FB268A8DC421333F322289"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityConnectModule.dll",
+                      "size":  25512,
+                      "sha256":  "CE565292E96737CD7EA63CBEDA8B963A7E6C2DEF881F453E503BEE5F245F12F3"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityConsentModule.dll",
+                      "size":  16304,
+                      "sha256":  "2A3EC1E330382D33610121B03D51138E51905EB32C649BE04E7297B7DD062FE7"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityCurlModule.dll",
+                      "size":  24488,
+                      "sha256":  "5C5DE9439CAC6D838AEB4D5CDC4186561872ABAF79BAD05D598B47094A6E222E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+                      "size":  22440,
+                      "sha256":  "565E442475BD957D9C7C67953DBD2BFF848A0DE1145A431D8A2FA58C8A4471D4"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+                      "size":  27048,
+                      "sha256":  "741E8C48B9DC18A1450A0B5E3FFE1ABBF7E296AC54919540211478D6C6A15557"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+                      "size":  26544,
+                      "sha256":  "50F8BB4437DB4B7F33B723756F9C87F19E1A0E6067E3CAB4F3DB7B01F1BF71B1"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+                      "size":  67496,
+                      "sha256":  "1CFA12BDB38AF665C8A738FD18870B492C29DD23C584AB04484EFA4EE842457A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+                      "size":  25520,
+                      "sha256":  "15BB7004C55BE8426B272D547B8541E8F2FC3CF3C2682374C523A387ADD2820F"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+                      "size":  34736,
+                      "sha256":  "E4F2E2150516B9175CE5CDC9D25D90751BA3CAC7E5797D8A1DB87802D40986CA"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.VehiclesModule.dll",
+                      "size":  29616,
+                      "sha256":  "D6F6CB83FE61799BDA7431820BBF9BD2122714C39F95060B39DB1DBE4A235F60"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.VFXModule.dll",
+                      "size":  76200,
+                      "sha256":  "74804192CFF1B9C1BF8F4954282A5D9A9DD5F3C4C5FF8F392FCB5E485CE8475E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.VideoModule.dll",
+                      "size":  56744,
+                      "sha256":  "223CF5B56EAD1D4246AB8630DF20D067BE96C719927A18449859DB1B28EB3266"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+                      "size":  41384,
+                      "sha256":  "876915E2037557BCBE8263F910AA032F5D4C9E689E38C5A008710FC23DE6618E"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.VRModule.dll",
+                      "size":  29616,
+                      "sha256":  "B1E2AEC715718F29FF0DA5E4CBA293995C3256381A22409F7CBCCBC2BFE3B6CF"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.WindModule.dll",
+                      "size":  24496,
+                      "sha256":  "CB4873B72B192B27853FED345FA665AACC5A1FC858D9527660A94D12DA7B7F80"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/UnityEngine.XRModule.dll",
+                      "size":  86440,
+                      "sha256":  "863F4129734E8FD48DB92ECB292433421FC63403874BA16B0B6A65C742F554F2"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Managed/websocket-sharp.dll",
+                      "size":  248320,
+                      "sha256":  "0113AC17878D4FE992FA487C4FD9A8FA3850D4FA4B64CAB45ECF782A3D6FEF7A"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Plugins/x86_64/lib_burst_generated.dll",
+                      "size":  1062400,
+                      "sha256":  "F8385BF7E3FC07F35E1B65A6F76545596EE0B87388C1167AC44C125D95625B86"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Resources/unity default resources",
+                      "size":  5863012,
+                      "sha256":  "620C67EA0B2E25575E4DCCFC1542819283F9698718B075F430E6C04EB1B04325"
+                  },
+                  {
+                      "path":  "My project (1)_Data/Resources/unity_builtin_extra",
+                      "size":  367460,
+                      "sha256":  "C154765FF516ECAF6967F505605CF1FEFE79588B132AF428BB8FBD086BF510E4"
+                  },
+                  {
+                      "path":  "My project (1)_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+                      "size":  2733,
+                      "sha256":  "1DB8718FED9E16130F5C03C1936CD2056B4206F627801FEE0B39023242884D54"
+                  },
+                  {
+                      "path":  "versao.txt",
+                      "size":  6,
+                      "sha256":  "B69DACB21950A555C32812EF66EC2153E340ED5F0E4B022B3023005688907B6B"
+                  }
+              ]
+}
